@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ninja2002vw
-- 👀 I’m interested in Learning pogramming for a future job, and to maybe make my own game
+- 👋 Hello! My name is Jeroen Vos, i live in the Netherlands and i'm 21 years old
+- 👀 I’m interested in Learning pogramming for a future job, and to maybe make my own game.
 - 🌱 I’m currently learning CS50P python course
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeroen.vos106@gmail.com
 
 <!---
