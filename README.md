@@ -1,6 +1,4 @@
 - 👋 Hello! My name is Jeroen Vos, i live in the Netherlands and i'm 21 years old
-- 👀 I’m interested in Learning pogramming for a future job.
-- 🌱 I’m currently taking CS50P python course.
 - 📫 How to reach me jeroen.vos106@gmail.com
 
 <!---
